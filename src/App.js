@@ -53,7 +53,7 @@ function App() {
   return (
     <div className="App">
       <form id="registration-form" onSubmit={submitForm} ref={formRef}>
-        <h1>Register</h1>
+        <h1>Registration form</h1>
 
         <div className="form-group">
           <label htmlFor="email">Your email address</label>
